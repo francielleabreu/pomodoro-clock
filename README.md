@@ -8,7 +8,7 @@
     <h1>Pomodoro Clock</h1>
     <p>This is a web project developed as part of the Matrix Master bootcamp in Rotterdam, the Netherlands. The goal of this project is to create a Pomodoro Clock using HTML, CSS, Bootstrap, and JavaScript.</p>
     <h2>Visit the Project</h2>
-    <p>Check out the project in action at: <a href="https://francielleabreu.github.io/matrix-master-bring-all-together/">Pomodoro Clock</a></p>
+    <p>Check out the project in action at: <a href="https://francielleabreu.github.io/pomodoro-clock/">Pomodoro Clock</a></p>
     <h2>Matrix Master</h2>
     <p>Matrix Master is a company based in Rotterdam, the Netherlands, that offers bootcamps and training in web development and technology. Learn more about the company at: <a href="https://matrixmaster.info/">https://matrixmaster.info/</a></p>
     <h2>Technologies Used</h2>
