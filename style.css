@@ -1,0 +1,87 @@
+.nav-wrapper {
+    position: relative;
+    text-align: center;
+}
+
+.main-image {
+    max-width: 150px;
+}
+
+#pomodoro-app {
+    border: 1px solid #333;
+    border-radius: 20px;
+    width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+    background: #333;
+}
+
+#timer {
+    color: rgb(247, 240, 240);
+    font-size: 50px;
+    margin: 10px auto;
+    border: 5px solid rgb(252, 249, 249);
+    border-radius: 70%;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: default;
+}
+
+#filler {
+    background: #ddffcc;
+    height: 0px;
+    width: 200px;
+    position: absolute;
+    bottom: 0;
+}
+
+#time {
+    margin-top: 50px;
+    z-index: 1;
+    position: relative;
+}
+
+#buttons-up button {
+    background: #3e90e2;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    padding: 5px;
+    width: 90px;
+    margin: 10px auto;
+    font-size: 14px;
+    height: 40px;
+    border-radius: 50px;
+}
+
+#buttons-up button#shortBreak {
+    background: rgb(8, 99, 8);
+}
+
+#buttons-down button {
+    background: #095eb3;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    padding: 5px;
+    width: 90px;
+    margin: 10px auto;
+    font-size: 14px;
+    height: 40px;
+    border-radius: 50px;
+}
+
+#buttons-down button#start {
+    background: #0c0;
+}
+
+#buttons-down button#stop {
+    background: #f00;
+}
